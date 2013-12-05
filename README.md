@@ -1,4 +1,4 @@
 MyArduino
 =========
 
-Iam a Graduate of Electronis Baground.This repository consist of some projects on Arduino Uno.
+Iam a Graduate of Electronis Background.This repository consist of some projects on Arduino Uno.
