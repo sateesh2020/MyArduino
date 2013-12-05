@@ -1,4 +1,4 @@
 MyArduino
 =========
 
-These are some projects on Arduino Uno
+Iam a Graduate of Electronis Baground.This repository consist of some projects on Arduino Uno.
